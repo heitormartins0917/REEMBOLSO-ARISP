@@ -1,0 +1,7 @@
+pandas
+openpyxl
+pymupdf
+pyautogui
+pyperclip
+
+py -m pip install -r requirements.txt

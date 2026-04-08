@@ -1,0 +1,29 @@
+# =========================
+# Arquivos sensíveis / temporários
+# =========================
+
+# PDFs reais
+entrada_pdf/*
+!entrada_pdf/.gitkeep
+
+# Planilhas reais
+saida_excel/*
+!saida_excel/.gitkeep
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
